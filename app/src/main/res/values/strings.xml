@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Test project</string>
+    <string name="mensagem1"> Digite aqui seu Login: </string>
+    <string name="mensagem2"> Digite sua senha: </string>
+    <string name="mensagem3"> Entrar </string>
+</resources>
